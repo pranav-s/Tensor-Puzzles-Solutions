@@ -9,11 +9,9 @@ Tensor Puzzles is a repository from Sasha Rush that has a range of puzzles that 
 
 ## Puzzle Solutions
 
-The solutions to the puzzles can be found in the following notebook:
+The solutions to the puzzles can be found in Tensor Puzzlers.ipynb.
 
-- [Puzzle Solutions Notebook](Tensor Puzzlers.ipynb)
-
-Alternative solutions are provided in some cases inside the function body in comments. I have experimented with some possible solutions in cells after the body of each puzzle which may or may not be relevant to the final solution as they are things I was just trying out. I am keeping them in the repo in the hopes that it maybe useful to others doing experiments of their own. You can also check out [this](https://www.youtube.com/watch?v=Hafo7hIl8MU) YouTube video in which Sasha discusses the solutions to each puzzle in the repo.
+Alternative solutions are provided in some cases inside the function body in comments. I have experimented with some possible solutions in cells after the body of each puzzle which may or may not be relevant to the final solution as they are things I was just trying out. I kept them in the repo in the hope that it maybe useful to others during their problem solving. You can also check out [this](https://www.youtube.com/watch?v=Hafo7hIl8MU) YouTube video in which Sasha discusses the solutions to each puzzle in the repo.
 
 The notebook was run using Google Colab.
 
